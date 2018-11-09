@@ -1,25 +1,34 @@
 # soucecode_reading
-my Linux and C/C++ language collections of
-some classicial books and projects souce code for beginner
+collections of some source codes
+-------------------------
+C/CPP Language:
 
-Books:
-APUE  
+<<APUE>>
 http://www.apuebook.com
 
-Beginnig Linux Programming
+<<Beginnig Linux Programming>>
 http://www.wrox.com/WileyCDA/WroxTitle/Beginning-Linux-Programming-4th-Edition.productCd-0470147628,descCd-DOWNLOAD.html
 
-StepByStep - Assembly Language
+<<StepByStep - Assembly Language>>
 
-Projects:
-TinyHttpd
-Muduo
+
+github- TinyHttpd
+
+github - Muduo 
 
 
 -----------
 Go Language:
 
 
+
+
 -----------
-Web-dev: PHP,JS Lanaguage:
+Web-PHP,JS Lanaguage:
 php和mysql++web开发（第5版）完整源码
+
+
+
+
+--------------------
+Java Language:
