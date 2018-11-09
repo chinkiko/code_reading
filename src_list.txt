@@ -1,0 +1,10 @@
+BOOKS:
+APUE -v2 -v3
+begingnig Linux Programming
+
+Projects:
+https://github.com/astaxie/build-web-application-with-golang
+https://github.com/chenshuo/muduo
+
+Others:
+php和mysql++web开发（第5版）完整源码
