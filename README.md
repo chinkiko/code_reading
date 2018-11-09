@@ -8,10 +8,9 @@ C/CPP Language:
 http://www.apuebook.com
 
 <<Beginnig Linux Programming>>
-http://www.wrox.com/WileyCDA/WroxTitle/Beginning-Linux-Programming-4th-Edition.productCd-0470147628,descCd-DOWNLOAD.html
+http://www.wrox.com/WileyCDA/WroxTitle/Beginning-Linux-Programming-4th-Edition.productCd-0470147628.html
 
 <<StepByStep - Assembly Language>>
-
 ```
 github- TinyHttpd
 
@@ -26,8 +25,9 @@ Go Language:
 
 -----------
 Web-PHP,JS Lanaguage:
+```
 php和mysql++web开发（第5版）完整源码
-
+```
 
 
 
